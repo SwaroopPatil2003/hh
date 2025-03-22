@@ -1,1 +1,1 @@
-# hh
+AI Chatbot with Eel Integration | Built an interactive AI chatbot with a Python backend and JavaScript frontend using Eel for seamless integration. Enabled real-time user interaction with dynamic responses, enhancing user experience with smooth UI communication.
